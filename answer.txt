@@ -1,0 +1,1 @@
+Hello. Right now it is {date}. I'm feeling {procent} % {mood} and I have {fucks} fucks to give.
